@@ -17,3 +17,12 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 "# shopping_app" 
 
+
+<div align="center">
+    <img src="shopping_app/assets/Screenshot_۲۰۱۹-۱۲-۲۱-۱۹-۴۳-۲۳[1].png" width="400px"</img> 
+</div>
+
+
+<div align="center">
+    <img src="https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png" width="400px"</img> 
+</div>
