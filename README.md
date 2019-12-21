@@ -18,10 +18,9 @@ samples, guidance on mobile development, and a full API reference.
 "# shopping_app" 
 
 
-<div>
-    <img src="https://user-images.githubusercontent.com/24282351/71313810-3e0ac480-2453-11ea-8041-b37375b6765e.png" width="400px"</img> 
-    </div>
 
-<div>
-    <img src="https://user-images.githubusercontent.com/24282351/71314277-7530a400-245a-11ea-94ce-70e819ea4816.png" width="400px"</img> 
-    </div>
+<ul id="menu">
+  <li><img src="https://user-images.githubusercontent.com/24282351/71313810-3e0ac480-2453-11ea-8041-b37375b6765e.png" width="400px"</img> </li>
+    <li>  </li>
+  <li><img src="https://user-images.githubusercontent.com/24282351/71314277-7530a400-245a-11ea-94ce-70e819ea4816.png" width="400px"</img> </li>
+</ul> 
