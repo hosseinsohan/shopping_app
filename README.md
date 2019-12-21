@@ -18,7 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 "# shopping_app" 
 
 
-- [صفحه اصلی](https://user-images.githubusercontent.com/24282351/71313810-3e0ac480-2453-11ea-8041-b37375b6765e.png)
+صفحه اصلی
+https://user-images.githubusercontent.com/24282351/71313810-3e0ac480-2453-11ea-8041-b37375b6765e.png
 
 
 
