@@ -19,10 +19,5 @@ samples, guidance on mobile development, and a full API reference.
 
 
 <div align="center">
-    <img src="shopping_app/assets/Screenshot_۲۰۱۹-۱۲-۲۱-۱۹-۴۳-۲۳[1].png" width="400px"</img> 
-</div>
-
-
-<div align="center">
-    <img src="https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png" width="400px"</img> 
+    <img src="https://github.com/hosseinsohan/shopping_app/blob/master/shopping_app/assets/Screenshot_%DB%B2%DB%B0%DB%B1%DB%B9-%DB%B1%DB%B2-%DB%B2%DB%B1-%DB%B1%DB%B9-%DB%B4%DB%B3-%DB%B2%DB%B3[1].png" width="400px"</img> 
 </div>
